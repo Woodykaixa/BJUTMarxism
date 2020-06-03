@@ -48,3 +48,7 @@ h4 strong {
 b {
   font-size: 16.5px;
 }
+
+img {
+  max-width: 50%;
+}
