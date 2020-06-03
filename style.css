@@ -29,6 +29,22 @@ strong {
   color: red;
 }
 
+h1 strong {
+  font-size: 33px;
+}
+
+h2 strong {
+  font-size: 27px;
+}
+
+h3 strong {
+  font-size: 123px;
+}
+
+h4 strong {
+  font-size: 19px;
+}
+
 b {
   font-size: 16.5px;
 }
